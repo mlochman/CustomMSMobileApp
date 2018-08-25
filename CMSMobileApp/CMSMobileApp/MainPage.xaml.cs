@@ -12,6 +12,8 @@ namespace CMSMobileApp
         public MainPage()
         {
             InitializeComponent();
+
+            //hello there
         }
     }
 }
